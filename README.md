@@ -1,4 +1,4 @@
-# assignment-3---reinforcement-learning-horatiuluci
+# assignment 3 - reinforcement-learning
 in order to run this code:
 ```
 cd /path/to/assignment/folder
